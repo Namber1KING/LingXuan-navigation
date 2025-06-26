@@ -18,9 +18,9 @@ Welcome to deploy the homepage directly through the author
 
 (https://nav.esite.love/)
 
-如对你有帮助，欢迎通过“爱发电”渠道捐赠
+如对你有帮助，给孩子一个星吧，欢迎通过“爱发电”渠道捐赠
 
-If it is helpful to you, please feel free to donate through the "Love Power Generation" channel
+If it is helpful to you,give baby a bulingbuling,please feel free to donate through the "Love Power Generation" channel
 
 ([爱发电 · 连接创作者与粉丝的会员制平台](https://afdian.com/a/LingXuan-navigation))
 
