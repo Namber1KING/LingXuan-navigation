@@ -10,7 +10,7 @@ A lightweight, highly customized, open-source, no login, no ad homepage navigati
 
 Project open source, welcome secondary innovation, prohibit profit, prohibit development, lock webpage link versions
 
-![](file://C:\Users\a1819\Desktop\微信截图_20250626192712.png?msec=1750938020049)
+![](https://nav.esite.love/show.png)
 
 欢迎通过作者部署主页直接使用
 
